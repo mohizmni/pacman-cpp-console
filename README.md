@@ -1,4 +1,4 @@
-# Pacman C++ Console Game
+<img width="822" height="448" alt="Screenshot 2026-07-29 065450" src="https://github.com/user-attachments/assets/52e3c050-9a3d-4ce7-bcad-71711e13b323" /># Pacman C++ Console Game
 
 A feature-complete, interactive Pac-Man arcade game built entirely in modern C++ for the Windows Console environment. This project features custom ASCII/Unicode rendering, ANSI color coding, dynamic level management, background sound playback, and high-score handling.
 
@@ -13,13 +13,23 @@ A feature-complete, interactive Pac-Man arcade game built entirely in modern C++
  * Custom Intro Animation: Centered, flicker-free opening sequence rendered directly in the terminal buffer.
  * Score & User Tracking: Binary/structured file logging for player stats and game states.
 
-## Demo & Screenshots
-<img width="829" height="456" alt="Screenshot 2026-07-29 065450" src="" />
+## Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6eb41edc-e183-4635-8aa7-740b0b623160" width="48%" alt="Pacman Gameplay" />
-  <img src="https://github.com/user-attachments/assets/f8af8679-33df-43c9-8648-8ba99a37af7e" width="48%" alt="Pacman Menu" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="[URL_FIRST_IMAGE](https://github.com/user-attachments/assets/e53416bf-368c-4bcf-a9e6-895748648a63)![Uploading Screenshot 2026-07-29 065450.png…]()
+" height="300px" style="object-fit: contain;" alt="Gameplay" /><br/>
+      <sub><b>Real-time Gameplay & Maze Logic</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="[URL_SECOND_IMAGE](https://github.com/user-attachments/assets/43ceabcb-6c9c-4794-9f91-0681b8e632c)2" height="300px" style="object-fit: contain;" alt="Main Menu" /><br/>
+      <sub><b>User Authentication & Main Menu</b></sub>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Built With
