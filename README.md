@@ -22,7 +22,7 @@ A feature-complete, interactive Pac-Man arcade game built entirely in modern C++
       <sub><b>Real-time Gameplay & Maze Logic</b></sub>
       </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/8dbbeb1a-22f3-43da-9920-4fbc0c39e79" height="300px" style="object-fit: contain;" alt="Main Menu" /><br/>
+      <img src="https://github.com/user-attachments/assets/562a23a1-c4af-4241-b839-124f7023d0e7" height="300px" style="object-fit: contain;" alt="Main Menu" /><br/>
       <sub><b>User Authentication & Main Menu</b></sub>
     </td>
   </tr>
