@@ -14,11 +14,12 @@ A feature-complete, interactive Pac-Man arcade game built entirely in modern C++
  * Score & User Tracking: Binary/structured file logging for player stats and game states.
 
 ## Demo & Screenshots
-| Main Gameplay | User Auth & Levels |
-| :---: | :---: |
-| <img width="785" height="479" alt="Screenshot 2026-07-29 065352" src="https://github.com/user-attachments/assets/a8ab40d8-c79a-4726-97fc-0749f2e08993" />
-|<img width="829" height="456" alt="Screenshot 2026-07-29 065450" src="https://github.com/user-attachments/assets/95972bba-1a3a-467f-ba50-9a6820b28c08" />
- |
+<img width="829" height="456" alt="Screenshot 2026-07-29 065450" src="" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eb41edc-e183-4635-8aa7-740b0b623160" width="48%" alt="Pacman Gameplay" />
+  <img src="https://github.com/user-attachments/assets/f8af8679-33df-43c9-8648-8ba99a37af7e" width="48%" alt="Pacman Menu" />
+</p>
 ---
 
 ## Built With
