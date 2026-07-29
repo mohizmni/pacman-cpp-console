@@ -1,5 +1,4 @@
-
-# Pac-Man C++ Console Game
+# Pacman C++ Console Game
 
 A feature-complete, interactive Pac-Man arcade game built entirely in modern C++ for the Windows Console environment. This project features custom ASCII/Unicode rendering, ANSI color coding, dynamic level management, background sound playback, and high-score handling.
 
@@ -14,6 +13,12 @@ A feature-complete, interactive Pac-Man arcade game built entirely in modern C++
  * Custom Intro Animation: Centered, flicker-free opening sequence rendered directly in the terminal buffer.
  * Score & User Tracking: Binary/structured file logging for player stats and game states.
 
+## Demo & Screenshots
+| Main Gameplay | User Auth & Levels |
+| :---: | :---: |
+| <img width="785" height="479" alt="Screenshot 2026-07-29 065352" src="https://github.com/user-attachments/assets/a8ab40d8-c79a-4726-97fc-0749f2e08993" />
+|<img width="829" height="456" alt="Screenshot 2026-07-29 065450" src="https://github.com/user-attachments/assets/95972bba-1a3a-467f-ba50-9a6820b28c08" />
+ |
 ---
 
 ## Built With
